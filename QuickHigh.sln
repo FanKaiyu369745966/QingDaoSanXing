@@ -26,6 +26,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QIAGVSSApplication", "Sourc
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AppSetup", "Source\Setup\AppSetup\AppSetup.vdproj", "{D4654F0B-3398-47B1-A1C9-13E6D7B1CA46}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LEDModule", "Source\LEDModule\LEDModule.vcxproj", "{DCE08561-AD97-498B-997F-277221F1C71C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -54,6 +56,12 @@ Global
 		{D4654F0B-3398-47B1-A1C9-13E6D7B1CA46}.Release|x64.Build.0 = Release
 		{D4654F0B-3398-47B1-A1C9-13E6D7B1CA46}.Release|x86.ActiveCfg = Release
 		{D4654F0B-3398-47B1-A1C9-13E6D7B1CA46}.Release|x86.Build.0 = Release
+		{DCE08561-AD97-498B-997F-277221F1C71C}.Debug|x64.ActiveCfg = Debug|x64
+		{DCE08561-AD97-498B-997F-277221F1C71C}.Debug|x64.Build.0 = Debug|x64
+		{DCE08561-AD97-498B-997F-277221F1C71C}.Debug|x86.ActiveCfg = Debug|x64
+		{DCE08561-AD97-498B-997F-277221F1C71C}.Release|x64.ActiveCfg = Release|x64
+		{DCE08561-AD97-498B-997F-277221F1C71C}.Release|x64.Build.0 = Release|x64
+		{DCE08561-AD97-498B-997F-277221F1C71C}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
